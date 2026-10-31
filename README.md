@@ -274,35 +274,35 @@ plt.axis("off")
 
 #The following outputs are obtained:
 
-#1. Original image displayed using OpenCV and Matplotlib.
+# 1. Original image displayed using OpenCV and Matplotlib.
 
 
 <img width="237" height="427" alt="Screenshot 2026-10-31 101456" src="https://github.com/user-attachments/assets/fa22f4ec-5c02-4087-b113-c83f8aaab3e8" />
 
 
-#2. Image with a line drawn from the top-left to the bottom-right.
+# 2. Image with a line drawn from the top-left to the bottom-right.
 
 <img width="272" height="467" alt="Screenshot 2026-10-31 101618" src="https://github.com/user-attachments/assets/3cd3a977-e162-4b22-a95a-6b5fc774a507" />
 
 
-#3. Image with a circle .
+# 3. Image with a circle .
 
 <img width="267" height="448" alt="Screenshot 2026-10-31 101701" src="https://github.com/user-attachments/assets/6e434b6a-f817-4b2d-ad70-c0927e578481" />
 
 
 
-#4. Image with a rectangle around its boundary.
+# 4. Image with a rectangle around its boundary.
 
 <img width="273" height="470" alt="Screenshot 2026-10-31 101735" src="https://github.com/user-attachments/assets/2e816c70-baee-4c00-9dd3-eaec15f8356d" />
 
 
-#5. Image with the text "OpenCV Drawing".
+# 5. Image with the text "OpenCV Drawing".
 
 <img width="286" height="466" alt="Screenshot 2026-10-31 101806" src="https://github.com/user-attachments/assets/695d2f8e-bfb2-46ac-aeeb-2646c125f791" />
 
 
 
-#6. HSV, grayscale, and YCrCb color space conversions.
+# 6. HSV, grayscale, and YCrCb color space conversions.
 
 
 <img width="262" height="456" alt="Screenshot 2026-10-31 101932" src="https://github.com/user-attachments/assets/6f44e4c2-4709-4a93-a0f3-bce81e8db3b5" />
@@ -313,7 +313,7 @@ plt.axis("off")
 
 
 
-#7. Image converted from HSV back to RGB.
+# 7. Image converted from HSV back to RGB.
 
 
 <img width="257" height="466" alt="Screenshot 2026-10-31 102110" src="https://github.com/user-attachments/assets/fb7d809d-5864-43eb-88b5-2ec7c3df0e1b" />
@@ -326,25 +326,25 @@ plt.axis("off")
 
 
 
-#9. Image resized to half its original dimensions.
+# 9. Image resized to half its original dimensions.
 
 <img width="553" height="463" alt="Screenshot 2026-10-31 102149" src="https://github.com/user-attachments/assets/fa4ba1ec-c990-4a50-94fa-529720930e69" />
 
 
 
 
-#10. Cropped region of interest displayed.
+# 10. Cropped region of interest displayed.
 
 <img width="453" height="463" alt="Screenshot 2026-10-31 102208" src="https://github.com/user-attachments/assets/4208845e-2704-4bd2-8ba5-3c800b377af8" />
 
 
-#11. Horizontally flipped image displayed.
+# 11. Horizontally flipped image displayed.
 
 
 <img width="273" height="453" alt="Screenshot 2026-10-31 102236" src="https://github.com/user-attachments/assets/5fb83925-f41e-4017-ba74-5c81b8fce73f" />
 
 
-#12. Vertically flipped image displayed.
+# 12. Vertically flipped image displayed.
 
 
 <img width="271" height="461" alt="Screenshot 2026-10-31 102241" src="https://github.com/user-attachments/assets/049cd8c1-8c98-4587-afcb-5189a4bcff0d" />
